@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @NicksterX8, or just Nick
-- I’m currently most interested in web development. I have been working on a blog, and building web applications for things that I find useful or cool 
-- I’m currently learning Git/Github, React, CSS, NodeJS, and Firebase 
-- I’m looking to collaborate on... nothing, yet.
+- I’m currently most interested in game development.
+- I’m learning C++ and SDL2, making lots of small games. 
 - How to reach me: email me at NickW05@outlook.com
 
 <!---
